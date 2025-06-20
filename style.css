@@ -1,0 +1,78 @@
+
+
+
+
+
+
+.searchbar{
+width: 400px;
+padding: 15px;
+}
+
+nav{
+    display: flex;
+    background-color: yellow;
+}
+
+.fa-heart{
+    font-size: 30px;
+}
+
+.fa-cart-shopping{
+    font-size: 30px;
+}
+
+
+
+
+   .icon-container {
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+      padding: 20px;
+      box-sizing: border-box;
+      background-color: yellow;
+    }
+
+    .icon-container i {
+      margin-left: 20px;
+      font-size: 24px;
+      cursor: pointer;
+    }
+
+    button{
+        text-align: right;
+    }
+
+
+
+
+    ul{
+        display: flex;
+        gap: 25px;
+        list-style-type: none;
+    }
+
+    .banner{
+        display: flex;
+    }
+
+    .items{
+        display: flex;
+    }
+
+    .cards{
+        display: flex;
+    }
+
+
+
+    .footer{
+        display: flex;
+        gap: 500px;
+    }
+    
+
+    
+
+
